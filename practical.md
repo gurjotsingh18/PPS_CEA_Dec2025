@@ -19,3 +19,5 @@ cout<<"       |\n";
  return 0;
  }
 ```
+
+![Gurjot](https://github.com/gurjotsingh18/PPS_CEA_Dec2025/blob/main/Gurjot%20Singh.png)
