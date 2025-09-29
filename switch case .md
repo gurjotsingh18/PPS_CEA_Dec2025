@@ -20,3 +20,5 @@ default:cout<<"sorry wrong input";
 return 0;
 }
 ```
+
+![capture](https://github.com/gurjotsingh18/PPS_CEA_Dec2025/blob/main/Capture.PNG)
